@@ -7,4 +7,4 @@ I'm a Sociologist and Data Scientist 👩‍💻🇨🇱. I'm interested in labo
 <b>Contact Information</b> <br>
 <i> [Email](mailto:j.suarezsarrazin@gmail.com) </i> <br>
 
-<center> <img src="/docs/assets/profile_pic.png" width="300"/> </center>
+<center> <img src="/docs/profile_pic.png" width="300"/> </center>
