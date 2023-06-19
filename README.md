@@ -138,8 +138,7 @@
       <a href="https://repositorio.cepal.org/bitstream/handle/11362/44969/S1901133_es.pdf?sequence=5&isAllo wed=y">https://repositorio.cepal.org/bitstream/handle/11362/44969/S1901133_es.pdf?sequence=5&isAllo wed=y</a>
     </li>
   </ol>
-</body>
-</html>
+
 <br>
  <h3>🎓 Education</h3>
 
