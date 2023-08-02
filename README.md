@@ -2,9 +2,13 @@
 
 <h3>💻 Professional Experience</h3>
 
+
+* **OECD ISP Centre for Skills** @ [OECD Centre for Skills](https://www.oecd.org/skills/centre-for-skills/) _(Aug 2023 - Present)_ <br>
+    * Vocational Education and Training
+
 <ul>
   <li>
-    <p><strong>Consultant</strong> @ <a href="https://www.cepal.org/">United Nations Economic Commission for Latin America and the Caribbean</a> (April 2021 - Present)</p>
+    <p><strong>Consultant</strong> @ <a href="https://www.cepal.org/">United Nations Economic Commission for Latin America and the Caribbean</a> (April 2021 - July 2023)</p>
     <p>Artificial Intelligence, skills, job automation, and stratification in Latin America and the Caribbean.</p>
     <ul>
       <li>Data analysis and processing using PIAAC surveys for Mexico, Ecuador, Peru, and Chile - and household surveys from 15 countries of the region. Programming machine learning algorithms to predict the probability of automation due to technological development.</li>
