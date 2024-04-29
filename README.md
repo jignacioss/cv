@@ -4,7 +4,13 @@
 
 
 * **OECD ISP Centre for Skills** @ [OECD Centre for Skills](https://www.oecd.org/skills/centre-for-skills/) _(Aug 2023 - Present)_ <br>
-    * Vocational Education and Training
+    ● Vocation Education and Training and the Green Transition.
+      o Analyse the VET system in Finland and make recommendations to help develop the required green skills for the green transition in the labour market.
+      o Participating in a mission to Finland to meet key stakeholders and actors to gain a deeper understanding of the central system's strengths, needs, and challenges.
+      o Writing inputs and performing data analysis for a final report that delivers recommendations for improving the VET system in Finland considering the challenges of the green transition.
+    ● Schoolteachers' continuous education reform in France.
+      o Provide international examples of good practices to improve the continuous education system of schoolteachers in France.
+      o Formulating recommendations regarding improving skill matching and training evaluation in France based on best international evidence and participating in workshops with the French government to discuss recommendations.
 
 <ul>
   <li>
