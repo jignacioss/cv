@@ -230,8 +230,8 @@
 
 ### 💻 Softwares and Database Management Environments
 
-* **Advanced:** Stata, R
-* **Intermediate:** Python, SQL, Markdown, NVivo, Atlas.ti, SPSS
+* **Advanced:** Stata, R, Python
+* **Intermediate:** SQL, Markdown, NVivo, Atlas.ti, SPSS
 
 ### 🔀 Workflows, Collaboration Softwares, Text Editors
 
