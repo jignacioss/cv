@@ -3,9 +3,10 @@
 <h3>💻 Professional Experience</h3>
 
 * **Junior Policy Analyst** @ [OECD Development Co-operation Directorate](https://www.oecd.org/development/) _(Feb 2024 - Present)_ <br>
-   * Conduct comprehensive research and analysis on development co-operation policies and practices, focusing on poverty, inequalities, education, and labour market policies, to offer informed policy advice and contribute to OECD publications and guidelines.
-   * Plan, prepare and facilitate meetings and events for the Community of Practice on Poverty and Inequality (CoP-PI), and communicate and collaborate with relevant partners and stakeholders.
-   * Contribute to cross-cutting and horizontal work within the OECD and the Development Co-operation Directorate (DCD), and to corporate reporting and programme of work requirements.
+   * Conduct comprehensive research and analysis on development co-operation policies and practices, focusing on poverty, inequalities, and cross-cutting subjects such as the green transition and labour market policies, to offer informed policy advice and contribute to OECD publications and guidelines.
+*	Plan, prepare and facilitate meetings and events for the Community of Practice on Poverty and Inequality (CoP-PI), and communicate and collaborate with relevant partners and stakeholders, including the G20.
+*	Contributed to the drafting of the Development Co-operation Report 2024: Tackling Poverty and Inequalities through the Green Transition, with a co-authored chapter on DAC members' strategies for poverty and inequality reduction.
+
 
 * **OECD ISP Centre for Skills** @ [OECD Centre for Skills](https://www.oecd.org/skills/centre-for-skills/) _(Aug 2023 - Jan 2024)_ <br>
     * Vocation Education and Training and the Green Transition.
