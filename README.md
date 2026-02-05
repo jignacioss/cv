@@ -78,4 +78,43 @@
   <li>Conducted structural equation modelling (SEM) and survey data analysis for a project on meritocracy and redistributive preferences.</li>
   <li>Prepared analytical literature reviews and presented findings to researchers.</li>
 </ul>
-<p>
+
+<h3>Research Assistant</h3>
+<p><strong>Teaching Development Centre (CDDoc), Pontificia Universidad Católica de Chile</strong> | 2014 – 2016</p>
+<ul>
+  <li>Conducted research on teaching practices, educational innovation and learning outcomes using qualitative and mixed methods.</li>
+  <li>Evaluated active learning methods and supported pedagogical reform initiatives through data-driven reporting.</li>
+</ul>
+
+<br>
+
+<h2>🎓 Education</h2>
+
+<ul>
+  <li><strong>Postgraduate Certificate in Applied Data Science</strong>, Massachusetts Institute of Technology (MIT), 2023</li>
+  <li><strong>MSc International Social & Public Policy (Distinction)</strong>, London School of Economics (LSE), 2020</li>
+  <li><strong>BSc Sociology</strong>, Pontificia Universidad Católica de Chile, 2017</li>
+</ul>
+
+<br>
+
+<h2>🛠 Technical Skills</h2>
+
+<ul>
+  <li><strong>Programming:</strong> Python, R, Stata, SQL</li>
+  <li><strong>Methods:</strong> Econometrics, Causal Inference, SEM, Latent Class Analysis</li>
+  <li><strong>Data:</strong> PIAAC, household surveys, microdata processing, Big Data analytics</li>
+  <li><strong>Visualisation:</strong> Matplotlib, ggplot2, Shiny</li>
+  <li><strong>Geospatial:</strong> ArcGIS</li>
+</ul>
+
+<br>
+
+<h2>🌐 Languages</h2>
+
+<ul>
+  <li><strong>Spanish:</strong> Native</li>
+  <li><strong>English:</strong> Full Professional Proficiency</li>
+  <li><strong>French:</strong> Advanced (DALF C1 Preparation)</li>
+  <li><strong>Portuguese:</strong> Advanced</li>
+</ul>
