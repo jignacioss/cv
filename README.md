@@ -78,6 +78,4 @@
   <li>Conducted structural equation modelling (SEM) and survey data analysis for a project on meritocracy and redistributive preferences.</li>
   <li>Prepared analytical literature reviews and presented findings to researchers.</li>
 </ul>
-
-<h3>Research Assistant</h3>
 <p>
